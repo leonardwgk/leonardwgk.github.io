@@ -15,3 +15,7 @@
 section {
     padding-top: 5rem;
 }
+
+.report .container .link {
+    text-align: center;
+}
