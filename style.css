@@ -7,6 +7,10 @@
     background-color: #e2edff;
 }
 
+.projects .card:hover {
+    width: 370px;
+}
+
 .footer {
     background-color: #00c8ff;
     color: white;
